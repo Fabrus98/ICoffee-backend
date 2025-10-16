@@ -1,0 +1,193 @@
+{
+    "itemsTemplate": {
+        "Caff\u00e8": [],
+        "Solubili": [],
+        "Latte": [],
+        "Cornetti": [],
+        "Crostate": []
+    },
+    "bookings-25-09-2025": [
+        {
+            "id": 1,
+            "user": "user1",
+            "booktime": "2025-09-24T10:00:00",
+            "products": [
+                {
+                    "category": "Caff\u00e8",
+                    "item_id": 1,
+                    "quantity": 4
+                },
+                {
+                    "category": "Solubili",
+                    "item_id": 1,
+                    "quantity": 1
+                },
+                {
+                    "category": "Latte",
+                    "item_id": 2,
+                    "quantity": 7
+                },
+                {
+                    "category": "Crostate",
+                    "item_id": 2,
+                    "quantity": 1
+                }
+            ]
+        }
+    ],
+    "bookings-26-09-2025": [
+        {
+            "id": 1,
+            "user": "user1",
+            "booktime": "2025-09-25T09:00:00",
+            "products": [
+                {
+                    "category": "Caff\u00e8",
+                    "item_id": 1,
+                    "quantity": 2
+                },
+                {
+                    "category": "Solubili",
+                    "item_id": 1,
+                    "quantity": 8
+                },
+                {
+                    "category": "Latte",
+                    "item_id": 2,
+                    "quantity": 2
+                },
+                {
+                    "category": "Crostate",
+                    "item_id": 2,
+                    "quantity": 3
+                }
+            ]
+        }
+    ],
+    "bookings-04-10-2025": [
+        {
+            "id": 16,
+            "user": "Stefano",
+            "booktime": "02-10-2025, 16:37",
+            "products": [
+                {
+                    "category": "Solubili",
+                    "item_id": 3,
+                    "item_description": "Ginseng macchiato",
+                    "quantity": 1
+                },
+                {
+                    "category": "Cornetti",
+                    "item_id": 6,
+                    "item_description": "Cornetto alla nocciola",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "user": "Fabrizio",
+            "booktime": "03-10-2025, 10:43",
+            "products": [
+                {
+                    "category": "Solubili",
+                    "item_id": 4,
+                    "item_description": "Orzo macchiato",
+                    "quantity": 1
+                },
+                {
+                    "category": "Cornetti",
+                    "item_id": 5,
+                    "item_description": "Cornetto al cioccolato bianco",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "user": "Fabrizio",
+            "booktime": "03-10-2025, 10:43",
+            "products": [
+                {
+                    "category": "Crostate",
+                    "item_id": 1,
+                    "item_description": "Crostata al cioccolato",
+                    "quantity": 1
+                },
+                {
+                    "category": "Latte",
+                    "item_id": 2,
+                    "item_description": "Latte freddo",
+                    "quantity": 3
+                },
+                {
+                    "category": "Solubili",
+                    "item_id": 6,
+                    "item_description": "Cappuccino orzo",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "user": "Fabrizio",
+            "booktime": "03-10-2025, 10:45",
+            "products": [
+                {
+                    "category": "Latte",
+                    "item_id": 1,
+                    "item_description": "Latte caldo",
+                    "quantity": 5
+                },
+                {
+                    "category": "Caff\u00e8",
+                    "item_id": 5,
+                    "item_description": "Espresso macchiato",
+                    "quantity": 1
+                }
+            ]
+        }
+    ],
+    "bookings-07-10-2025": [
+        {
+            "id": 1,
+            "user": "Fabrizio",
+            "booktime": "06-10-2025, 15:51",
+            "products": [
+                {
+                    "category": "Cornetti",
+                    "item_id": 4,
+                    "item_description": "Cornetto al cioccolato",
+                    "quantity": 10
+                },
+                {
+                    "category": "Caff\u00e8",
+                    "item_id": 1,
+                    "item_description": "Espresso",
+                    "quantity": 1
+                }
+            ]
+        }
+    ],
+    "bookings-14-10-2025": [
+        {
+            "id": 1,
+            "user": "Fabrizio",
+            "booktime": "13-10-2025, 12:33",
+            "products": [
+                {
+                    "category": "Solubili",
+                    "item_id": 2,
+                    "item_description": "Orzo",
+                    "quantity": 1
+                },
+                {
+                    "category": "Caff\u00e8",
+                    "item_id": 5,
+                    "item_description": "Espresso macchiato",
+                    "quantity": 2
+                }
+            ]
+        }
+    ]
+}

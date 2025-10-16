@@ -1,0 +1,42 @@
+
+
+{
+	"Caffè": [
+		{"id": 1, "name": "Espresso", "description": "Espresso"},
+		{"id": 2, "name": "Lungo", "description": "Caffè lungo"},
+		{"id": 3, "name": "Deca espresso", "description": "Deca espresso"},
+		{"id": 4, "name": "Deca lungo", "description": "Deca lungo"},
+		{"id": 5, "name": "Espresso macchiato", "description": "Espresso macchiato"},
+		{"id": 9, "name": "Lungo macchiato", "description": "Caffè lungo macchiato"},
+		{"id": 10, "name": "Cappuccino", "description": "Cappuccino"},
+		{"id": 11, "name": "Cappuccino deca", "description": "Cappuccino deca"}
+	],
+	"Solubili": [
+		{"id": 1, "name": "Ginseng", "description": "Ginseng"},
+		{"id": 2, "name": "Orzo", "description": "Orzo"},
+		{"id": 3, "name": "Ginseng macchiato", "description": "Ginseng macchiato"},
+		{"id": 4, "name": "Orzo macchiato", "description": "Orzo macchiato"},
+		{"id": 5, "name": "Cappuccino ginseng", "description": "Cappuccino ginseng"},
+		{"id": 6, "name": "Cappuccino orzo", "description": "Cappuccino orzo"}
+	],
+	"Latte": [
+		{"id": 1, "name": "Latte caldo", "description": "Latte caldo"},
+		{"id": 2, "name": "Latte freddo", "description": "Latte freddo"},
+		{"id": 3, "name": "Latte macchiato caldo", "description": "Latte macchiato caldo"},
+		{"id": 4, "name": "Latte macchiato freddo", "description": "Latte macchiato freddo"}
+	],
+	"Cornetti": [
+		{"id": 1, "name": "Vuoto", "description": "Cornetto vuoto"},
+		{"id": 2, "name": "crema", "description": "Cornetto alla crema"},
+		{"id": 3, "name": "Pistacchio", "description": "Cornetto al pistacchio"},
+		{"id": 4, "name": "Cioccolato", "description": "Cornetto al cioccolato"},
+		{"id": 5, "name": "Cioccolato bianco", "description": "Cornetto al cioccolato bianco"},
+		{"id": 6, "name": "Nocciola", "description": "Cornetto alla nocciola"},
+		{"id": 7, "name": "Marmellata", "description": "Cornetto all marmellata"}
+	],
+	"Crostate": [
+		{"id": 1, "name": "Cioccolato", "description": "Crostata al cioccolato"},
+		{"id": 2, "name": "Marmellata", "description": "Crostata alla marmellata"}
+	]
+}
+
