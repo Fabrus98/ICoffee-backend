@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+bookings\session.json
+
+# Django stuff
+db.sqlite3
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Migrations cache
+*/migrations/__pycache__/
