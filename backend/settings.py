@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 from pathlib import Path
 
 # URL backend
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "http://0.0.0.0:8000"
 
 # URL frontend
 FRONTEND_URL = "http://localhost:5173"
