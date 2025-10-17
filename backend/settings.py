@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 from pathlib import Path
 
 # URL backend
-BACKEND_URL = "http://0.0.0.0:8000"
+BACKEND_URL = "http://127.0.0.1:8000"
 
 # URL frontend
 FRONTEND_URL = "http://87.106.39.97:5173"
@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-0htq5rhoz!xht32hyja18%ht1#4t(5np_tzgrt%u3!hh%53qib
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['87.106.39.97', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
 
 # Application definition
